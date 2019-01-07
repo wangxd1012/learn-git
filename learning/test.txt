@@ -7,3 +7,5 @@ Git tracks changes of files.
 
 创建并切换到新的分支
 Creating a new branch is quick and simple
+
+删除分支后又创建了新的分支

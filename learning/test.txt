@@ -5,5 +5,5 @@ Git is nice software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 
-创建并切换到了dev分支
-Creating a new branch is quick.
+创建并切换到了新的分支
+Creating a new branch is quick AND simple.
